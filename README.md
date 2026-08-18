@@ -23,9 +23,7 @@ mvn spring-boot:run     # starts on http://localhost:8080
 ```
 
 
-```bash
-OPENAI_API_KEY=sk-... mvn spring-boot:run
-```
+
 
 ## Quick demo (3 scenarios)
 
